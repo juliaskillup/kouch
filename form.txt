@@ -1,0 +1,4 @@
+OS: Win, Lin, Mac
+Br: FF, Op, IE, Edg
+Lan: Ru, En
+HH: JJ, HR
